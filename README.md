@@ -11,8 +11,8 @@ Insert: Add new employee records with relevant details such as name, designation
 Delete: Remove employee records from the system.
 Update: Modify existing employee information as required.
 View: Display employee details in a structured format for easy viewing.
-T
-# echnologies Used:
+
+# Technologies Used:
 
 Java: The core programming language used for developing the application logic.
 Swing and AWT: Utilized for creating the graphical user interface (GUI), providing an interactive and intuitive user experience.
