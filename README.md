@@ -1,5 +1,4 @@
-
-#Project: Employee Management System
+# Project: Employee Management System
 Description:
 The Employee Management System is a comprehensive application developed using Java, Swing, AWT, and MySQL database. This system is designed to facilitate efficient management of employee data within an organization. It offers a user-friendly interface and robust functionality to handle various operations related to employee records.
 
