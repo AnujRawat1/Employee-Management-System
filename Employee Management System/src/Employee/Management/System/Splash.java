@@ -19,6 +19,7 @@ public class Splash extends JFrame {
         setSize(1170,650);
         setLocation(200,100);  // To Open the Window at Centre
         setLayout(null);
+        setTitle("Employee Management System");
         setVisible(true);
 
         try {
